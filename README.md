@@ -3,7 +3,7 @@
 </p>
 
 # **Netflix Business Case Study**
-**_Date: 27 September 2024_**
+**_Date: 20 August 2025_**
 
 ## **Introduction**
 Netflix is a leading media and video streaming platform with over 222 million subscribers globally and a vast library of over 10,000 movies and TV shows. This business case study aims to analyze Netflix's content strategy using data-driven insights to identify key trends, viewer preferences, and provide actionable recommendations for future content production.
@@ -95,11 +95,9 @@ This analysis of Netflix’s dataset provides valuable insights into content tre
 
 ---
 
-**_Prepared by: Arundham Jena_**
+**_Prepared by: Reshu Kumar**
 
-**_Date: 27 September 2024_**
+**_Date: 20 August 2025**
 
 ---
 
-## **Contact Information**
-*LinkedIn*: [/arundham-jena](www.linkedin.com/in/arundham-jena-59aa20143)
